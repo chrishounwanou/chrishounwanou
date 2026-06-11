@@ -7,7 +7,7 @@ PhD Researcher at Mila – Quebec AI Institute and Université Laval, working at
 
 ---
 
-🎯 Research Interests
+##### Research Interests
 
 🎯 Reinforcement Learning
 
