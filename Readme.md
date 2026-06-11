@@ -22,6 +22,7 @@ PhD Researcher at Mila – Quebec AI Institute and Université Laval, working at
 🚀 Trustworthy AI
 
 
+
 🌟 Let’s connect and explore the endless possibilities in tech! 
 
 ### Social links
