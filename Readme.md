@@ -3,28 +3,33 @@
 
 #### 👨‍💻 AI Researcher
 
-I'm an AI/ML Engineer with a strong academic background in Mathematics, Computer Science, and Artificial Intelligence. Over the years, I’ve enjoyed developing intelligent systems — from data analysis and machine learning pipelines to neural network models tackling complex, real-world problems.
+PhD Researcher at Mila – Quebec AI Institute and Université Laval, working at the intersection of Reinforcement Learning, Large Language Models, and AI Agents. My goal is to develop intelligent systems that can learn, reason, and make robust decisions in complex and dynamic environments.
 
-🎯 I’m passionate about advancing research at the intersection of theory and application — particularly using AI to automate and improve software engineering and decision-making processes.
+---
 
---- 
+🎯 Research Interests
 
-🎯 **Research Interests**
+🎯 Reinforcement Learning
 
-* 🤖 Artificial Intelligence
-* 🏥 Reinforcement Learning
-* 📈 Machine Learning
-* 📊 Data Science
+🧠 Large Language Models (LLMs)
+
+🤖 AI Agents & Agentic AI
+
+📈 Machine Learning
+
+🔬 AI for Sequential Decision-Making
+
+🚀 Trustworthy AI
 
 
 🌟 Let’s connect and explore the endless possibilities in tech! 
 
 ### Social links
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/christophe-hounwanou/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/chrishounwnu)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/christophe-hounwanou/) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/chris_hounwanou)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/chrishounwanou/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/chrishounwanou)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/chrishounwanou/) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/chrishounwanou)
 
 
 ### Top languages
